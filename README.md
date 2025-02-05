@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Heading level 1
+
+1. first item
+2. second item
+- apple
+- banana
