@@ -20,4 +20,11 @@ Here are some ideas to get you started:
 1. first item
 2. second item
 - apple
+![image](https://github.com/user-attachments/assets/29efe022-bd6c-4ee0-aabf-5ed081f33338)
+
 - banana
+![image](https://github.com/user-attachments/assets/b57add37-c979-4d40-8c57-0be6d76ce61e)
+
+[My favourite site is chatgpt](https://chatgpt.com)
+
+
